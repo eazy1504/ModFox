@@ -17,13 +17,16 @@ C:\Users\Yourusername\AppData\Roaming\Mozilla\Firefox\Profiles\profilename.defau
 hosted SearchXNG search, then you can use that as default search 
 too,otherwise you can remove it! and use only DUCKDUCKGO.
 
+
+
+
 - Automatically installed extensions
-* Facebook Container
-* floccus bookmarks sync(firefox sync disabled)
-* KeePassXC-Browser
-* Profile Switcher for Firefox
-* uBlock Origin(with custom policies)
-* Web eID (The Web eID extension enables the use of digital documents (ID-card, digital ID, e-Resident’s digital ID, residence permit card, etc.) for secure authentication and signing on the web.)
++ Facebook Container
++ floccus bookmarks sync(firefox sync disabled)
++ KeePassXC-Browser
++ Profile Switcher for Firefox
++ uBlock Origin(with custom policies)
++ Web eID (The Web eID extension enables the use of digital documents (ID-card, digital ID, e-Resident’s digital ID, residence permit card, etc.) for secure authentication and signing on the web.)
 
 
 
