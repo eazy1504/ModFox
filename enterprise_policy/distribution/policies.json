@@ -147,7 +147,7 @@
       "CanvasBlocker@kkapsner.de": {
       "installation_mode": "normal_installed",
       "default_area": "navbar",
-      "install_url": "https://addons.mozilla.org/firefox/downloads/canvasblocker/latest.xpi"
+      "install_url": "https://addons.mozilla.org/firefox/downloads/latest/canvasblocker/latest.xpi"
       }
     },
     "DisableFirefoxStudies": true,
