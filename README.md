@@ -12,7 +12,7 @@ Copy - search.json.mozlz4 file -  C:\Users\Yourusername\AppData\Roaming\Mozilla\
 
 You can now start Firefox
 
-Default search engine is set to DuckDuckGo,also If you have local hosted SearchXNG then you can use that as default search too,otherwise you can remove it! and use only DUCKDUCKGO.
+Default search engine is set to DuckDuckGo,also If you have local self hosted SearchXNG search, then you can use that as default search too,otherwise you can remove it! and use only DUCKDUCKGO.
 
 
 
