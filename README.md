@@ -1,4 +1,5 @@
-## ModFox
+## ModFox- (Everything is modified for better privacy)
+
  - Modify policies.json and firefox.cfg as you like!
    
  - Install Firefox!
