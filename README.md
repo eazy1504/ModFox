@@ -20,6 +20,12 @@ too,otherwise you can remove it! and use only DUCKDUCKGO.
 
 
 
+
+
+
+
+
+
 - Automatically installed extensions
 + Facebook Container
 + floccus bookmarks sync(firefox sync disabled)
